@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661763042710",
+    "project_id": "bgnu-mentor",
+    "storage_bucket": "bgnu-mentor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661763042710:android:79035686f3ee26c3dc81b7",
+        "android_client_info": {
+          "package_name": "com.example.bgnu_mentor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYgvQtWUewh1LDsWIoxWr29V_ARhMAucw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
